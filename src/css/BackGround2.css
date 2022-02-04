@@ -1,0 +1,11 @@
+.background2{
+height: 600px;
+}
+
+@media (max-width: 648px) {
+    .background2{
+        width: fit-content;
+
+    }
+}
+

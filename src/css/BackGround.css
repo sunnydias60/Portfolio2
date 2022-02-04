@@ -1,0 +1,15 @@
+.BackGround{
+    height: 500px;
+    /* width: 1410px; */
+    /* padding-left: -100px; */
+    margin-left: 70px;
+}
+@media (max-width: 648px) {
+    .BackGround{
+        height: 200px;
+        width: 370px;
+        /* padding-left: -100px; */
+        margin-left: 20px;
+    }
+    }
+
